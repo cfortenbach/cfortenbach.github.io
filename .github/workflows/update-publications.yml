@@ -1,0 +1,44 @@
+name: Update publications from PubMed
+
+on:
+  # Run weekly on Sunday at 06:00 UTC (~ Saturday 11pm Pacific)
+  schedule:
+    - cron: '0 6 * * 0'
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Update papers.bib from PubMed
+        env:
+          NCBI_EMAIL: crfort@uw.edu
+        run: python bin/update_publications.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet _bibliography/papers.bib; then
+            echo "No changes to papers.bib."
+          else
+            git add _bibliography/papers.bib
+            git commit -m "chore: update publications from PubMed [skip ci]"
+            git push
+            echo "Committed updated papers.bib."
+          fi

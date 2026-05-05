@@ -1,0 +1,29 @@
+# Configuration for the publications auto-updater (bin/update_publications.py).
+# This file is read at GitHub Action run time AND when running the script locally.
+# Edit it to change which papers appear, which are featured, and which are excluded.
+
+# PubMed esearch terms. Multiple terms are unioned (OR'd) and deduped by PMID.
+# Notes:
+#   - "Fortenbach C[au]" matches Fortenbach C, CR, CA, etc. (PubMed truncates initials).
+#   - "Fortenbach CR[au]" is included as belt-and-suspenders against truncation changes.
+#   - For zero false positives, replace these with an ORCID query like:
+#       - "0000-0000-0000-0000[orcid]"
+#     Replace 0000-0000-0000-0000 with your ORCID iD.
+search_terms:
+  - Fortenbach C[au]
+  - Fortenbach CR[au]
+
+# PMIDs to feature on the landing page (sets selected={true} in the bib entry).
+# Find a paper's PMID at the bottom of its PubMed page or in its URL
+# (pubmed.ncbi.nlm.nih.gov/<PMID>/).
+# Aim for 3-6 papers max; too many "selected" loses the curatorial signal.
+selected_pmids:
+  # - 36617524   # 2023 PLoS ONE diabetes aqueous humor (example - replace with real PMIDs)
+  # - 28275032   # 2017 J. Gen. Physiol. RGS9 rod recovery (example)
+
+# PMIDs to exclude entirely. Use this for:
+#   - Papers by another "Fortenbach C" who isn't you
+#   - Errata/corrections you do not want listed separately
+#   - Conference abstracts you do not want on the publications page
+excluded_pmids:
+  # - 12345678   # example: not actually my paper
