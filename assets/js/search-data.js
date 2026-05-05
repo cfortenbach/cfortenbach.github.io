@@ -44,6 +44,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/joining/";
           },
+        },{id: "nav-patient-resources",
+          title: "patient resources",
+          description: "Trusted external resources for patients with retinal degenerative disease and the people who care for them. The Fortenbach Lab does not endorse any single organization; this page is a starting point.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/patient-resources/";
+          },
+        },{id: "nav-press",
+          title: "press",
+          description: "News stories, press releases, and media coverage about the Fortenbach Lab and our research.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/press/";
+          },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
