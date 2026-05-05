@@ -1,0 +1,74 @@
+{% comment %}
+  Funder badge row for the Fortenbach Lab.
+  Edit `_data/funders.yml` to update the list.
+  Logos live in `assets/img/funders/` — drop a PNG/SVG with the filename specified in the YAML.
+  Funders whose logo file is missing are silently skipped, so it's safe to add YAML entries
+  before the logo arrives.
+{% endcomment %}
+
+{% if site.data.funders %}
+  {% assign visible_funders = "" | split: "" %}
+  {% for funder in site.data.funders %}
+    {% capture logo_path %}assets/img/funders/{{ funder.logo }}{% endcapture %}
+    {% capture exists %}{% file_exists {{ logo_path }} %}{% endcapture %}
+    {% if exists == "true" %}
+      {% assign visible_funders = visible_funders | push: funder %}
+    {% endif %}
+  {% endfor %}
+
+  {% if visible_funders.size > 0 %}
+    <div class="funders-row">
+      <h5 class="funders-title">Support</h5>
+      <div class="funders-grid">
+        {% for funder in visible_funders %}
+          <a href="{{ funder.url }}" target="_blank" rel="external nofollow noopener" title="{{ funder.name }}">
+            <img src="{{ '/assets/img/funders/' | append: funder.logo | relative_url }}"
+                 alt="{{ funder.name }}"
+                 class="funder-logo"
+                 loading="lazy">
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <style>
+      .funders-row {
+        margin-top: 2.5rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid var(--global-divider-color);
+      }
+      .funders-title {
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--global-text-color-light);
+        margin-bottom: 1rem;
+      }
+      .funders-grid {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 2rem;
+      }
+      .funder-logo {
+        max-height: 48px;
+        max-width: 180px;
+        width: auto;
+        height: auto;
+        opacity: 0.75;
+        filter: grayscale(100%);
+        transition: opacity 0.2s ease, filter 0.2s ease;
+      }
+      .funder-logo:hover {
+        opacity: 1;
+        filter: grayscale(0%);
+      }
+      html[data-theme='dark'] .funder-logo {
+        filter: grayscale(100%) invert(1) brightness(1.5);
+      }
+      html[data-theme='dark'] .funder-logo:hover {
+        filter: invert(1) brightness(1.2);
+      }
+    </style>
+  {% endif %}
+{% endif %}

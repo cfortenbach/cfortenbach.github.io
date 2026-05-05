@@ -1,0 +1,21 @@
+# Funders / institutional supporters displayed at the bottom of the landing page.
+# Drop the corresponding logo file into assets/img/funders/.
+# Logos are auto-greyscaled and become full-color on hover.
+# Recommended logo specs: PNG or SVG, transparent background, ~400px wide max.
+
+- name: Research to Prevent Blindness
+  url: https://www.rpbusa.org/
+  logo: rpb.png
+
+- name: UW Medicine
+  url: https://www.uwmedicine.org/
+  logo: uw-medicine.png
+
+- name: Department of Ophthalmology, University of Washington
+  url: https://ophthalmology.washington.edu/
+  logo: uw-ophthalmology.png
+
+# Add more as you add support sources, e.g.:
+# - name: National Eye Institute
+#   url: https://www.nei.nih.gov/
+#   logo: nei.png
