@@ -1,0 +1,7 @@
+Christopher R. Fortenbach, MD, PhD is an Assistant Professor in the Department of Ophthalmology at the University of Washington and principal investigator of the Fortenbach Lab. He is a clinician-scientist with a clinical practice in vitreoretinal diseases and surgery at UW Medicine and a research program centered on photopharmacologic vision restoration in retinal degeneration.
+
+He completed the MSTP at the University of California, Davis, earning his PhD in 2015 in Biochemistry, Molecular, Cellular, and Developmental Biology with a thesis on how retinal neurons convey the presence of light. He then trained at the University of Iowa Hospitals & Clinics — internal medicine internship (2018), ophthalmology residency (graduated 2021), and vitreoretinal surgery fellowship (2023) — and is board-certified by the American Board of Ophthalmology. He joined the UW faculty in August 2023.
+
+His earlier scientific work spanned retinal signaling, metabolomics and proteomics of inherited retinal disease, and global disparities in vision loss. The lab's current focus on photoswitches grew naturally out of those interests: the science sits at the interface of retinal physiology and chemical biology, and the clinical relevance is immediate. Dr. Fortenbach's research is supported by a Career Development Award from Research to Prevent Blindness.
+
+*Edit this file (`_pages/about_pi.md`) to refine wording, add personal interests outside the lab, or expand on training mentors. This block appears next to your photo on the [people](/people/) page.*
