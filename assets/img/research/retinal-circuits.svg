@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Layered cross-section of the retina showing photoreceptors, bipolar cells, and ganglion cells">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1f3a"/>
+      <stop offset="100%" stop-color="#0e1226"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg2)"/>
+
+  <!-- Layer band guides -->
+  <g stroke="#2a3358" stroke-width="1" fill="none" opacity="0.7">
+    <line x1="0" y1="160" x2="1200" y2="160"/>
+    <line x1="0" y1="280" x2="1200" y2="280"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+    <line x1="0" y1="540" x2="1200" y2="540"/>
+    <line x1="0" y1="660" x2="1200" y2="660"/>
+  </g>
+
+  <!-- Top: photoreceptor outer segments (rods + cones) -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+    <!-- rods (slim cylinders) -->
+    <g stroke="#9ec5fe">
+      <rect x="180" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="240" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="300" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="420" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="480" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="600" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="660" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="780" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="900" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+      <rect x="960" y="60"  width="14" height="100" rx="6" fill="#9ec5fe" opacity="0.85"/>
+    </g>
+    <!-- cones (tapered) -->
+    <g stroke="#ffd166" fill="#ffd166">
+      <polygon points="360,60 380,60 384,160 356,160" opacity="0.9"/>
+      <polygon points="540,60 560,60 564,160 536,160" opacity="0.9"/>
+      <polygon points="720,60 740,60 744,160 716,160" opacity="0.9"/>
+      <polygon points="840,60 860,60 864,160 836,160" opacity="0.9"/>
+    </g>
+  </g>
+
+  <!-- Outer nuclear layer -->
+  <g fill="#5a6abd" opacity="0.55">
+    <circle cx="187" cy="200" r="14"/>
+    <circle cx="247" cy="220" r="14"/>
+    <circle cx="307" cy="200" r="14"/>
+    <circle cx="370" cy="220" r="16"/>
+    <circle cx="427" cy="200" r="14"/>
+    <circle cx="487" cy="220" r="14"/>
+    <circle cx="550" cy="200" r="16"/>
+    <circle cx="607" cy="220" r="14"/>
+    <circle cx="667" cy="200" r="14"/>
+    <circle cx="730" cy="220" r="16"/>
+    <circle cx="787" cy="200" r="14"/>
+    <circle cx="850" cy="220" r="16"/>
+    <circle cx="907" cy="200" r="14"/>
+    <circle cx="967" cy="220" r="14"/>
+  </g>
+
+  <!-- OPL synaptic bands -->
+  <g stroke="#5a6abd" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M 160 290 Q 200 270 240 290 T 320 290 T 400 290 T 480 290 T 560 290 T 640 290 T 720 290 T 800 290 T 880 290 T 960 290"/>
+  </g>
+
+  <!-- Inner nuclear layer (bipolar + horizontal + amacrine cells) -->
+  <g fill="#7d92e0" opacity="0.6">
+    <circle cx="220" cy="340" r="13"/>
+    <circle cx="280" cy="360" r="13"/>
+    <circle cx="340" cy="340" r="13"/>
+    <circle cx="400" cy="360" r="13"/>
+    <circle cx="460" cy="340" r="13"/>
+    <circle cx="520" cy="360" r="13"/>
+    <circle cx="580" cy="340" r="13"/>
+    <circle cx="640" cy="360" r="13"/>
+    <circle cx="700" cy="340" r="13"/>
+    <circle cx="760" cy="360" r="13"/>
+    <circle cx="820" cy="340" r="13"/>
+    <circle cx="880" cy="360" r="13"/>
+    <circle cx="940" cy="340" r="13"/>
+  </g>
+
+  <!-- IPL synaptic bands (multi-strata) -->
+  <g stroke="#9ec5fe" stroke-width="1.5" fill="none" opacity="0.5">
+    <line x1="100" y1="430" x2="1100" y2="430"/>
+    <line x1="100" y1="460" x2="1100" y2="460"/>
+    <line x1="100" y1="490" x2="1100" y2="490"/>
+    <line x1="100" y1="520" x2="1100" y2="520"/>
+  </g>
+
+  <!-- Ganglion cells (somas with dendrites and axons) -->
+  <g fill="none" stroke="#e0e7ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(280, 580)">
+      <ellipse cx="0" cy="0" rx="22" ry="16" fill="#1a1f3a" stroke-width="3"/>
+      <path d="M -22 -8 Q -40 -30 -55 -55"/>
+      <path d="M -10 -16 Q -8 -45 -16 -65"/>
+      <path d="M 10 -16 Q 18 -45 24 -68"/>
+      <path d="M 22 -6 Q 40 -30 60 -50"/>
+    </g>
+    <g transform="translate(520, 580)">
+      <ellipse cx="0" cy="0" rx="22" ry="16" fill="#1a1f3a" stroke-width="3"/>
+      <path d="M -22 -8 Q -40 -30 -55 -55"/>
+      <path d="M -10 -16 Q -8 -45 -16 -65"/>
+      <path d="M 10 -16 Q 18 -45 24 -68"/>
+      <path d="M 22 -6 Q 40 -30 60 -50"/>
+    </g>
+    <g transform="translate(760, 580)">
+      <ellipse cx="0" cy="0" rx="22" ry="16" fill="#1a1f3a" stroke-width="3"/>
+      <path d="M -22 -8 Q -40 -30 -55 -55"/>
+      <path d="M -10 -16 Q -8 -45 -16 -65"/>
+      <path d="M 10 -16 Q 18 -45 24 -68"/>
+      <path d="M 22 -6 Q 40 -30 60 -50"/>
+    </g>
+  </g>
+
+  <!-- Nerve fiber layer / axons running horizontally -->
+  <g stroke="#9ec5fe" stroke-width="2" fill="none" opacity="0.6">
+    <line x1="100" y1="640" x2="1100" y2="640"/>
+    <line x1="100" y1="660" x2="1100" y2="660"/>
+    <line x1="100" y1="680" x2="1100" y2="680"/>
+    <line x1="100" y1="700" x2="1100" y2="700"/>
+    <line x1="100" y1="720" x2="1100" y2="720"/>
+  </g>
+</svg>

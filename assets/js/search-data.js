@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/patient-resources/";
           },
-        },{id: "nav-press",
-          title: "press",
-          description: "News stories, press releases, and media coverage about the Fortenbach Lab and our research.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/press/";
-          },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -80,18 +73,34 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-placeholder-news-item-replace-with-real-entries-paper-accepted-talk-given-grant-funded-aim-to-add-something-every-1-2-months-so-the-site-does-not-feel-abandoned",
-          title: 'Placeholder news item — replace with real entries (paper accepted, talk given, grant...',
+      },{id: "news-awarded-the-research-to-prevent-blindness-career-development-award-rpb-s-flagship-award-supporting-four-years-of-work-on-photoswitch-mediated-vision-restoration",
+          title: 'Awarded the Research to Prevent Blindness Career Development Award — RPB’s flagship award...',
+          description: "",
+          section: "News",},{id: "news-uw-medicine-ophthalmology-featured-the-lab-s-photoswitch-research-fortenbach-lab-investigating-the-therapeutic-potential-for-photoswitches-to-restore-vision",
+          title: 'UW Medicine Ophthalmology featured the lab’s photoswitch research: Fortenbach Lab investigating the therapeutic...',
           description: "",
           section: "News",},{id: "news-lab-launching-at-the-university-of-washington",
           title: 'Lab launching at the University of Washington',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-the-fortenbach-lab-website-is-live-recruiting-at-all-levels-see-the-join-page",
+            },},{id: "news-phase-1-trial-of-intravitreal-photoswitch-kio-301-benaq-in-advanced-retinitis-pigmentosa-published-in-nature-medicine",
+          title: 'Phase 1 trial of intravitreal photoswitch (KIO-301/BENAQ) in advanced retinitis pigmentosa published in...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-appointed-adjunct-assistant-professor-in-the-department-of-neurobiology-amp-amp-biophysics-at-the-university-of-washington-supporting-cross-departmental-training-and-research-in-retinal-physiology-and-vision-science",
+          title: 'Appointed Adjunct Assistant Professor in the Department of Neurobiology &amp;amp;amp; Biophysics at the...',
+          description: "",
+          section: "News",},{id: "news-the-fortenbach-lab-website-is-live-recruiting-at-all-levels-see-the-join-page",
           title: 'The Fortenbach Lab website is live. Recruiting at all levels — see the...',
           description: "",
-          section: "News",},{id: "projects-how-photoswitches-encode-visual-information",
+          section: "News",},{id: "news-arvo-2026-photochemical-restoration-of-transient-on-and-off-retinal-ganglion-cell-responses",
+          title: 'ARVO 2026 — Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "projects-how-photoswitches-encode-visual-information",
           title: 'How photoswitches encode visual information',
           description: "Single-cell and multi-electrode array recordings of photoswitch-mediated light responses, in retinas at different stages of degeneration.",
           section: "Projects",handler: () => {
