@@ -74,7 +74,7 @@ ninja.data = [{
           
         },
       },{id: "news-awarded-the-research-to-prevent-blindness-career-development-award-rpb-s-flagship-award-supporting-four-years-of-work-on-photoswitch-mediated-vision-restoration",
-          title: 'Awarded the Research to Prevent Blindness Career Development Award — RPB’s flagship award...',
+          title: 'Awarded the Research to Prevent Blindness Career Development Award, RPB’s flagship award supporting...',
           description: "",
           section: "News",},{id: "news-uw-medicine-ophthalmology-featured-the-lab-s-photoswitch-research-fortenbach-lab-investigating-the-therapeutic-potential-for-photoswitches-to-restore-vision",
           title: 'UW Medicine Ophthalmology featured the lab’s photoswitch research: Fortenbach Lab investigating the therapeutic...',
@@ -88,7 +88,7 @@ ninja.data = [{
           title: 'Appointed Adjunct Assistant Professor in the Department of Neurobiology &amp;amp;amp; Biophysics at the...',
           description: "",
           section: "News",},{id: "news-arvo-2026-photochemical-restoration-of-transient-on-and-off-retinal-ganglion-cell-responses",
-          title: 'ARVO 2026 — Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell...',
+          title: 'ARVO 2026: Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell Responses...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
