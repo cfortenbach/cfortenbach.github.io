@@ -32,26 +32,17 @@ latest_posts:
   limit: 3
 ---
 
-The Fortenbach Lab studies how the retina encodes light — and how to give that encoding back when disease takes it away. We are a vision-restoration lab with a particular focus on **photopharmacology**: synthetic, light-activated small molecules delivered by intravitreal injection that bind to surviving cells in a degenerated retina and confer new light sensitivity to the tissue.
+The Fortenbach Lab studies how the retina encodes light — and how to give that encoding back when disease takes it away. We are a vision-restoration lab focused on **photopharmacology**: synthetic, light-activated small molecules that confer new light sensitivity on retinas whose photoreceptors have died.
 
-This approach is now far enough along that early-phase clinical trials have demonstrated restored vision in human subjects with severe retinal degeneration. The questions in front of us — and the ones the lab is built to answer — are no longer *whether* photoswitches can restore vision, but *what kind of vision* they restore, and what we can do to make that vision better.
-
-Our work spans two threads:
-
-- **Mechanism.** What does photoswitch-mediated light sensitivity actually look like at the level of single retinal neurons and downstream circuits? We use whole-cell patch clamp and multi-electrode array recordings, combined with machine-learning analysis of population responses, to map how photoswitches encode visual information in retinas at different stages of degeneration.
-- **Translational optimization.** Given those mechanistic constraints, how do we improve the perceptual quality of restored vision? This is where the lab's clinical vantage point — vitreoretinal surgery practice at UW Medicine — keeps the bench questions tethered to what actually limits patients.
+Early-phase clinical trials have demonstrated restored vision in human subjects with severe retinal degeneration. The questions in front of us are no longer *whether* photoswitches can restore vision, but *what kind of vision* they restore — and how to make that vision better.
 
 #### Some of the questions we're working on
 
 - How do photoswitches encode visual information at the level of single retinal neurons, and how does that encoding propagate through downstream circuits?
 - Which retinal cell classes retain functional output as photoreceptor input is lost, and at what disease stage does that change?
 - What features of natural visual scenes are recoverable from photoswitch-treated retinas — and which features are not?
-- How does the photoswitch response compare to native vision in terms of kinetics, sensitivity, contrast, and temporal precision?
-- Given those mechanistic constraints, how do we improve the perceptual quality of restored vision in patients?
-- What clinical outcome measures, dose regimens, and trial designs would best capture meaningful gains for people living with retinal degeneration?
+- How does the photoswitch response compare to native vision in kinetics, sensitivity, contrast, and temporal precision?
+- How do we improve the perceptual quality of restored vision in patients?
+- What clinical outcome measures and trial designs would best capture meaningful gains for people living with retinal degeneration?
 
-The lab is part of the [Department of Ophthalmology](https://ophthalmology.uw.edu/) at the University of Washington, located in the [Karalis Johnson Retina Center](https://ophthalmology.washington.edu/research/research-centers/karalis-johnson-retina-center/) in Seattle's South Lake Union neighborhood. We focus on retinal degenerative diseases, especially retinitis pigmentosa and age-related macular degeneration.
-
-#### Joining the lab
-
-The lab is actively recruiting at all levels — postdoctoral fellows, graduate students, and undergraduates with backgrounds in vision science, neuroscience, biophysics, chemical biology, bioengineering, or medicine. See the [join](/joining/) page for details on what we are looking for and how to get in touch.
+The lab is part of the [Department of Ophthalmology](https://ophthalmology.uw.edu/) at the University of Washington, in the [Karalis Johnson Retina Center](https://ophthalmology.washington.edu/research/research-centers/karalis-johnson-retina-center/). We are actively recruiting at all levels — see [join](/joining/) for details.
