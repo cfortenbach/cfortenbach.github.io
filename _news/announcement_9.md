@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at Basic Science Grand Rounds with James Kuchenbecker; James's portion of the talk covered assistive devices to maximize vision restoration via photoswitches.
+Basic Science Grand Rounds: joint presentation with Dr. James Kuchenbecker on photochemical restoration of vision augmented with assistive devices.
