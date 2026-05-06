@@ -17,7 +17,7 @@ footer_text: >
   <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: vision restoration, retinal degeneration, photoswitches, photopharmacology, retinal electrophysiology, ophthalmology, University of Washington
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: logo/bend_in_circle.svg # path under /assets/img/, or an emoji
+icon: logo/bend_primary.svg # path under /assets/img/, or an emoji
 
 url: https://fortenbachlab.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

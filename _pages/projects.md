@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+Our long-term goal is to restore meaningful vision to people who have lost it, using small molecules deliverable in an outpatient setting.
+
 #### Mechanism: how photoswitches encode visual information
 
 Photoswitches are synthetic, light-activated small molecules delivered by intravitreal injection that confer new light sensitivity on retinas whose photoreceptors have died. We use whole-cell patch clamp and multi-electrode array recordings, combined with machine-learning analysis of population responses, to map how photoswitch responses encode visual information at the single-cell and circuit level — across retinas at multiple stages of degeneration.

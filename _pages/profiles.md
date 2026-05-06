@@ -7,7 +7,8 @@ nav: true
 nav_order: 3
 
 profiles:
-  - align: right
+  - section_header: Current members
+    align: right
     image: prof_pic.jpg
     content: about_pi.md
     image_circular: false
@@ -34,6 +35,12 @@ profiles:
     more_info: >
       <p><strong>Payton Hermanson</strong></p>
       <p>Research Scientist</p>
----
 
-The lab is just getting started. Profiles for new trainees will appear here as the group grows. If you're interested in joining, see the [join](/joining/) page.
+  - section_header: Alumni
+    align: left
+    image: alex_dohota.jpg
+    content: about_alex.md
+    image_circular: false
+    more_info: >
+      <p><strong>Alex Dohota</strong></p>
+---
