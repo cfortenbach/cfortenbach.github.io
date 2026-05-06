@@ -7,24 +7,16 @@ nav: true
 nav_order: 5
 ---
 
-The Fortenbach Lab is recruiting at all levels. Below is what we are looking for and how to get in touch.
+The Fortenbach Lab is recruiting at all levels. Please email (see below) to inquire.
 
 #### Postdoctoral fellows
 
-We are recruiting postdocs with backgrounds in any of: retinal physiology, vision science, electrophysiology (patch clamp, MEA, ERG), photopharmacology, chemical biology, bioengineering, or computational neuroscience. The strongest applicants tend to combine deep technical expertise in one of these areas with a willingness to learn at the interface.
-
-To apply, email me a cover letter, your CV, and contact information for three references. In the cover letter, please describe (a) what scientific question excites you most, (b) the techniques you would bring with you, and (c) why our lab specifically.
+We are recruiting postdocs who are passionate about vision science. Preference will be given to candidates with a background in any of the following: vision science, electrophysiology (patch clamp, MEA, ERG), photopharmacology, bioengineering, or computational neuroscience.
 
 #### Graduate students
 
-UW students from relevant programs (Neuroscience, MCB, Bioengineering, MSTP, Vision Science) are welcome to rotate. Please email me to arrange a meeting before requesting a rotation.
-
-Prospective students who have not yet been admitted to UW should apply through the program that best matches their background and interests; I cannot review applications outside of the formal process, but I am happy to chat about fit if you reach out before applying.
+The Fortenbach Lab welcomes rotating graduate students from the Neurobiology & Biophysics program, subject to availability. Please email me to discuss fit before requesting a rotation.
 
 #### Undergraduates
 
-Undergraduates with strong quantitative backgrounds and a sustained interest in vision science are welcome to inquire about research positions. We expect a meaningful time commitment (10+ hours/week during the academic year, full-time over the summer) and prefer students who can stay with the lab for at least a year.
-
-#### Clinical research opportunities
-
-Residents and clinical fellows in ophthalmology interested in research time are welcome to discuss possibilities — projects can range from focused clinical questions to bench work, depending on your training stage and goals.
+Undergraduates with an interest in vision science are welcome to inquire about research positions. We expect a meaningful time commitment (10+ hours/week during the academic year, full-time over the summer), and preference is given to students who can stay with the lab for at least a year.

@@ -9,14 +9,10 @@ nav_order: 1
 
 Our long-term goal is to restore meaningful vision to people who have lost it, using small molecules deliverable in an outpatient setting.
 
-#### Mechanism: how photoswitches encode visual information
+#### How do photoswitches restore light-sensitivity and encode visual information in the retina?
 
-Photoswitches are synthetic, light-activated small molecules delivered by intravitreal injection that confer new light sensitivity on retinas whose photoreceptors have died. We use whole-cell patch clamp and multi-electrode array recordings, combined with machine-learning analysis of population responses, to map how photoswitch responses encode visual information at the single-cell and circuit level — across retinas at multiple stages of degeneration.
+Photoswitches are synthetic, light-activated small molecules delivered by intravitreal injection that restore light sensitivity to retinas that have lost photoreceptors. We use whole-cell patch clamp and multi-electrode array recordings, combined with machine-learning analysis, to map how photoswitch responses encode visual information at the single-cell and population level.
 
-#### Retinal circuits in degenerative disease
+Our lab collaborates with [Dirk Trauner](https://www.traunergroup.org/) at the University of Pennsylvania to develop novel photoswitches and to study the resulting structure-function relationships in their ability to restore sight.
 
-Every restorative therapy acts on a retina that has already been remodeled by disease. We use ex vivo and in vivo electrophysiology in animal models of inherited and age-related degeneration to ask which inner retinal cell classes retain functional output, how excitatory and inhibitory inputs to ganglion cells reorganize, and what signal-to-noise constraints any therapeutic rescue must respect.
-
-#### From bench to retina clinic
-
-The lab's clinical vantage point — vitreoretinal surgery practice at UW Medicine — keeps the bench questions tethered to what limits patients. Visual outcome measures, durability of restored function, dose-response in the human eye, and the geometry of intravitreal delivery become target metrics for our mechanistic work, rather than afterthoughts.
+Dr. Fortenbach participates in multiple clinical trials, and as additional promising candidates are developed, they will be brought forward in new clinical trials.

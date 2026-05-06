@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-This page collects external resources we frequently share with patients and families. It is not a substitute for evaluation by a retina specialist, and the lab does not provide direct clinical care or genetic counseling through this site. If you are a UW Medicine patient, please contact your care team or the [UW Department of Ophthalmology](https://ophthalmology.uw.edu/) to schedule an appointment.
+This page includes external resources we frequently share with patients and families. It is not a substitute for evaluation by a retina specialist, and the lab does not provide direct clinical care or genetic counseling through this site. If you are a UW Medicine patient, please contact your care team or the [UW Department of Ophthalmology](https://ophthalmology.uw.edu/) to schedule an appointment.
 
 #### Information about retinal disease
 
@@ -20,32 +20,16 @@ This page collects external resources we frequently share with patients and fami
 - **My Retina Tracker®**, [my.fightingblindness.org](https://my.fightingblindness.org/). A patient registry that helps individuals with inherited retinal disease stay informed about clinical trials and research relevant to their specific diagnosis.
 - **Prevent Blindness**, [preventblindness.org](https://preventblindness.org/). Practical resources on living with low vision and on systemic eye-health conditions.
 
-#### Genetic testing
-
-For most inherited retinal diseases, identifying the causative gene is the first step toward determining whether you are eligible for current or future therapies. Genetic testing for IRD is now widely available at no cost through sponsored programs:
-
-- **ID YOUR IRD®** (run through Blueprint Genetics): free panel for inherited retinal disease, including post-test genetic counseling.
-- **Open Your Eyes®** (sponsored by Janssen, run through Invitae): [openyoureyes.com](https://www.openyoureyes.com/). Free panel and counseling for inherited retinal disease.
-
-We strongly recommend genetic testing be done with a board-certified retina specialist or genetic counselor in the loop, both to interpret results and to plan next steps.
-
 #### Clinical trials
 
 - **ClinicalTrials.gov**, [clinicaltrials.gov](https://clinicaltrials.gov/). The official US registry. Search by condition (e.g. *retinitis pigmentosa*, *Stargardt disease*, *macular degeneration*) and recruitment status.
 - **My Retina Tracker** (above) sends notifications about trials matching your registered diagnosis.
 
-#### Low-vision resources
-
-- **American Foundation for the Blind (AFB)**, [afb.org](https://www.afb.org/). Information on assistive technology, employment, and education.
-- **National Federation of the Blind (NFB)**, [nfb.org](https://nfb.org/). Advocacy and peer-support network.
-- **Washington State Department of Services for the Blind**, [dsb.wa.gov](https://www.dsb.wa.gov/). State-level vocational rehabilitation and independent-living services for Washington residents.
-
 #### Local UW resources
 
 - [UW Medicine Department of Ophthalmology](https://ophthalmology.uw.edu/)
 - [UW Karalis Johnson Retina Center](https://ophthalmology.washington.edu/research/research-centers/karalis-johnson-retina-center/)
-- [UW Vision Science Center](https://ophthalmology.washington.edu/research/research-centers/vision-science-center/)
 
 ---
 
-*If you spot a broken link or have a resource that should be on this list, please email me, see the [contact](/) page.*
+*If you spot a broken link or have a resource that should be on this list, please email me, see the [contact](https://fortenbachlab.com/) page.*

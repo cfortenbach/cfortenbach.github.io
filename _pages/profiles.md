@@ -25,7 +25,7 @@ profiles:
     content: about_angela.md
     image_circular: false
     more_info: >
-      <p><strong>Angela Sandt</strong></p>
+      <p><strong>Angela Sandt, BS</strong></p>
       <p>Lab Manager</p>
 
   - align: right
@@ -33,7 +33,7 @@ profiles:
     content: about_payton.md
     image_circular: false
     more_info: >
-      <p><strong>Payton Hermanson</strong></p>
+      <p><strong>Payton Hermanson, BS</strong></p>
       <p>Research Scientist</p>
 
   - section_header: Alumni
@@ -42,5 +42,5 @@ profiles:
     content: about_alex.md
     image_circular: false
     more_info: >
-      <p><strong>Alex Dohota</strong></p>
+      <p><strong>Alex Dohota, PhD</strong></p>
 ---
