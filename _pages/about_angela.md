@@ -1,1 +1,1 @@
-Angela Sandt is the lab manager for the Fortenbach Lab. She is responsible for day-to-day operations of the lab, including ordering and inventory, regulatory compliance, animal protocols, and onboarding of new lab members.
+Angela brings over twenty years of experience in molecular biology and ophthalmology research, combining hands-on bench expertise with administrative skill. She manages day-to-day operations of the Fortenbach Lab.
