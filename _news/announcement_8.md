@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the [Research to Prevent Blindness Career Development Award](https://ophthalmology.washington.edu/news/chris-fortenbach-md-phd-receives-rpb-career-development-award/) — RPB's flagship award supporting four years of work on photoswitch-mediated vision restoration.
+Awarded the [Research to Prevent Blindness Career Development Award](https://ophthalmology.washington.edu/news/chris-fortenbach-md-phd-receives-rpb-career-development-award/), RPB's flagship award supporting four years of work on photoswitch-mediated vision restoration.

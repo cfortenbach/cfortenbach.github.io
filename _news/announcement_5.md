@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Appointed Adjunct Assistant Professor in the [Department of Neurobiology &amp; Biophysics](https://nbio.uw.edu/) at the University of Washington — supporting cross-departmental training and research in retinal physiology and vision science.
+Appointed Adjunct Assistant Professor in the [Department of Neurobiology &amp; Biophysics](https://nbio.uw.edu/) at the University of Washington, supporting cross-departmental training and research in retinal physiology and vision science.

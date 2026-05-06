@@ -11,14 +11,14 @@ This page collects external resources we frequently share with patients and fami
 
 #### Information about retinal disease
 
-- **National Eye Institute** — [Inherited retinal diseases](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases) overview, plain-language explanations of conditions and trial concepts.
-- **MedlinePlus Genetics** — searchable plain-language summaries of specific gene-disease pairs ([example: USH2A](https://medlineplus.gov/genetics/gene/ush2a/)).
+- **National Eye Institute**, [Inherited retinal diseases](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases) overview, plain-language explanations of conditions and trial concepts.
+- **MedlinePlus Genetics**, searchable plain-language summaries of specific gene-disease pairs ([example: USH2A](https://medlineplus.gov/genetics/gene/ush2a/)).
 
 #### Research and patient organizations
 
-- **Research to Prevent Blindness (RPB)** — [rpbusa.org](https://www.rpbusa.org/). One of the leading non-profit funders of vision research in the United States. RPB supports research at academic departments of ophthalmology — including the Fortenbach Lab — and provides patients and the public with vetted information about vision research and emerging therapies.
-- **My Retina Tracker®** — [my.fightingblindness.org](https://my.fightingblindness.org/). A patient registry that helps individuals with inherited retinal disease stay informed about clinical trials and research relevant to their specific diagnosis.
-- **Prevent Blindness** — [preventblindness.org](https://preventblindness.org/). Practical resources on living with low vision and on systemic eye-health conditions.
+- **Research to Prevent Blindness (RPB)**, [rpbusa.org](https://www.rpbusa.org/). One of the leading non-profit funders of vision research in the United States. RPB supports research at academic departments of ophthalmology, including the Fortenbach Lab, and provides patients and the public with vetted information about vision research and emerging therapies.
+- **My Retina Tracker®**, [my.fightingblindness.org](https://my.fightingblindness.org/). A patient registry that helps individuals with inherited retinal disease stay informed about clinical trials and research relevant to their specific diagnosis.
+- **Prevent Blindness**, [preventblindness.org](https://preventblindness.org/). Practical resources on living with low vision and on systemic eye-health conditions.
 
 #### Genetic testing
 
@@ -31,14 +31,14 @@ We strongly recommend genetic testing be done with a board-certified retina spec
 
 #### Clinical trials
 
-- **ClinicalTrials.gov** — [clinicaltrials.gov](https://clinicaltrials.gov/). The official US registry. Search by condition (e.g. *retinitis pigmentosa*, *Stargardt disease*, *macular degeneration*) and recruitment status.
+- **ClinicalTrials.gov**, [clinicaltrials.gov](https://clinicaltrials.gov/). The official US registry. Search by condition (e.g. *retinitis pigmentosa*, *Stargardt disease*, *macular degeneration*) and recruitment status.
 - **My Retina Tracker** (above) sends notifications about trials matching your registered diagnosis.
 
 #### Low-vision resources
 
-- **American Foundation for the Blind (AFB)** — [afb.org](https://www.afb.org/). Information on assistive technology, employment, and education.
-- **National Federation of the Blind (NFB)** — [nfb.org](https://nfb.org/). Advocacy and peer-support network.
-- **Washington State Department of Services for the Blind** — [dsb.wa.gov](https://www.dsb.wa.gov/). State-level vocational rehabilitation and independent-living services for Washington residents.
+- **American Foundation for the Blind (AFB)**, [afb.org](https://www.afb.org/). Information on assistive technology, employment, and education.
+- **National Federation of the Blind (NFB)**, [nfb.org](https://nfb.org/). Advocacy and peer-support network.
+- **Washington State Department of Services for the Blind**, [dsb.wa.gov](https://www.dsb.wa.gov/). State-level vocational rehabilitation and independent-living services for Washington residents.
 
 #### Local UW resources
 
@@ -48,4 +48,4 @@ We strongly recommend genetic testing be done with a board-certified retina spec
 
 ---
 
-*If you spot a broken link or have a resource that should be on this list, please email me — see the [contact](/) page.*
+*If you spot a broken link or have a resource that should be on this list, please email me, see the [contact](/) page.*
