@@ -2,7 +2,7 @@
 layout: page
 title: Retinal circuits in degenerative disease
 description: Basic physiology of the degenerating retina — how circuits remodel, what remains intact, and what any restorative therapy must respect.
-img: assets/img/3.jpg
+img: assets/img/research/retinal-circuits.svg
 importance: 2
 category: retinal-physiology
 related_publications: false

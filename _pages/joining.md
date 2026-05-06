@@ -28,7 +28,3 @@ Undergraduates with strong quantitative backgrounds and a sustained interest in 
 #### Clinical research opportunities
 
 Residents and clinical fellows in ophthalmology interested in research time are welcome to discuss possibilities — projects can range from focused clinical questions to bench work, depending on your training stage and goals.
-
-#### How to email
-
-Please use the subject line `Lab inquiry — [your name], [career stage]`. A short, specific email is much more useful than a long generic one. I read every message, but it can take me a week or two to reply during clinic-heavy stretches.

@@ -2,7 +2,7 @@
 layout: page
 title: From bench to retina clinic
 description: Clinical questions that shape the lab's bench priorities — and bench results that inform clinical practice.
-img: assets/img/7.jpg
+img: assets/img/research/bench-to-clinic.svg
 importance: 3
 category: translational
 related_publications: false

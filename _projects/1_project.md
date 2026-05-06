@@ -2,7 +2,7 @@
 layout: page
 title: How photoswitches encode visual information
 description: Single-cell and multi-electrode array recordings of photoswitch-mediated light responses, in retinas at different stages of degeneration.
-img: assets/img/12.jpg
+img: assets/img/research/photoswitch-encoding.svg
 importance: 1
 category: vision-restoration
 related_publications: false

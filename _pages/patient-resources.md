@@ -14,17 +14,17 @@ This page collects external resources we frequently share with patients and fami
 - **National Eye Institute** — [Inherited retinal diseases](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases) overview, plain-language explanations of conditions and trial concepts.
 - **MedlinePlus Genetics** — searchable plain-language summaries of specific gene-disease pairs ([example: USH2A](https://medlineplus.gov/genetics/gene/ush2a/)).
 
-#### Support organizations
+#### Research and patient organizations
 
-- **Foundation Fighting Blindness (FFB)** — [fightingblindness.org](https://www.fightingblindness.org/). Largest US patient advocacy and research-funding organization for inherited retinal disease. They run support groups, fund research, and maintain a registry that links patients with eligible clinical trials.
-- **My Retina Tracker®** — [mrt.fightingblindness.org](https://my.fightingblindness.org/). FFB's patient registry. Free to join; helps you stay informed about clinical trials and research relevant to your specific diagnosis.
+- **Research to Prevent Blindness (RPB)** — [rpbusa.org](https://www.rpbusa.org/). One of the leading non-profit funders of vision research in the United States. RPB supports research at academic departments of ophthalmology — including the Fortenbach Lab — and provides patients and the public with vetted information about vision research and emerging therapies.
+- **My Retina Tracker®** — [my.fightingblindness.org](https://my.fightingblindness.org/). A patient registry that helps individuals with inherited retinal disease stay informed about clinical trials and research relevant to their specific diagnosis.
 - **Prevent Blindness** — [preventblindness.org](https://preventblindness.org/). Practical resources on living with low vision and on systemic eye-health conditions.
 
 #### Genetic testing
 
 For most inherited retinal diseases, identifying the causative gene is the first step toward determining whether you are eligible for current or future therapies. Genetic testing for IRD is now widely available at no cost through sponsored programs:
 
-- **ID YOUR IRD®** (sponsored by Foundation Fighting Blindness, run through Blueprint Genetics): [fightingblindness.org/genetic-testing](https://www.fightingblindness.org/genetic-testing). Free panel for inherited retinal disease, including post-test genetic counseling.
+- **ID YOUR IRD®** (run through Blueprint Genetics): free panel for inherited retinal disease, including post-test genetic counseling.
 - **Open Your Eyes®** (sponsored by Janssen, run through Invitae): [openyoureyes.com](https://www.openyoureyes.com/). Free panel and counseling for inherited retinal disease.
 
 We strongly recommend genetic testing be done with a board-certified retina specialist or genetic counselor in the loop, both to interpret results and to plan next steps.

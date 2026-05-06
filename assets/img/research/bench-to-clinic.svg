@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Stylized OCT cross-section of the retina">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e1226"/>
+      <stop offset="100%" stop-color="#1a1f3a"/>
+    </linearGradient>
+    <linearGradient id="oct" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e1226" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0e1226" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0e1226" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg3)"/>
+
+  <!-- Foveal-pit shaped "OCT" cross-section. Stack of curved bands. -->
+  <g fill="none" stroke-width="14" stroke-linecap="round" opacity="0.95">
+    <!-- Top reflective NFL band -->
+    <path d="M 80 320 Q 300 290 480 290 Q 600 360 720 290 Q 900 290 1120 320" stroke="#e0e7ff"/>
+    <!-- IPL -->
+    <path d="M 80 360 Q 300 332 480 332 Q 600 400 720 332 Q 900 332 1120 360" stroke="#9ec5fe"/>
+    <!-- INL -->
+    <path d="M 80 400 Q 300 374 480 374 Q 600 432 720 374 Q 900 374 1120 400" stroke="#7d92e0"/>
+    <!-- OPL -->
+    <path d="M 80 442 Q 300 416 480 416 Q 600 464 720 416 Q 900 416 1120 442" stroke="#5a6abd"/>
+    <!-- ONL -->
+    <path d="M 80 488 Q 300 460 480 460 Q 600 496 720 460 Q 900 460 1120 488" stroke="#4a5aab" stroke-width="22"/>
+    <!-- ELM/Ellipsoid zone -->
+    <path d="M 80 540 Q 300 518 480 516 Q 600 532 720 516 Q 900 518 1120 540" stroke="#9ec5fe"/>
+    <!-- RPE -->
+    <path d="M 80 580 Q 300 562 480 560 Q 600 570 720 560 Q 900 562 1120 580" stroke="#ffd166"/>
+    <!-- Choroid (lower) -->
+    <path d="M 80 630 Q 300 615 480 614 Q 600 622 720 614 Q 900 615 1120 630" stroke="#b07d33" opacity="0.7"/>
+  </g>
+
+  <!-- Subtle vertical gradient overlay to mimic OCT depth shading -->
+  <rect width="1200" height="800" fill="url(#oct)"/>
+
+  <!-- Eye outline at upper-left, suggesting the imaged organ -->
+  <g transform="translate(140, 130)" fill="none" stroke="#e0e7ff" stroke-width="3.5" opacity="0.85">
+    <!-- globe -->
+    <circle cx="0" cy="0" r="60"/>
+    <!-- iris -->
+    <circle cx="38" cy="0" r="20" fill="#1a1f3a"/>
+    <circle cx="38" cy="0" r="8" fill="#ffd166"/>
+    <!-- corneal arc -->
+    <path d="M 50 -20 Q 70 0 50 20" stroke="#9ec5fe"/>
+    <!-- optic nerve stub -->
+    <path d="M -55 18 Q -75 22 -90 30"/>
+  </g>
+
+  <!-- Scan beam from eye to retina cross-section -->
+  <g stroke="#9ec5fe" stroke-width="2" fill="none" opacity="0.5" stroke-dasharray="6 8">
+    <line x1="200" y1="160" x2="600" y2="320"/>
+  </g>
+
+  <!-- Axis label "depth" at right edge -->
+  <g stroke="#5a6abd" fill="none" stroke-width="1.5" opacity="0.6">
+    <line x1="1140" y1="280" x2="1140" y2="640"/>
+    <polyline points="1132,288 1140,280 1148,288"/>
+    <polyline points="1132,632 1140,640 1148,632"/>
+  </g>
+
+  <!-- Subtle scan-line texture across the retinal area -->
+  <g stroke="#9ec5fe" stroke-width="0.6" opacity="0.18">
+    <line x1="80" y1="335" x2="1120" y2="335"/>
+    <line x1="80" y1="370" x2="1120" y2="370"/>
+    <line x1="80" y1="405" x2="1120" y2="405"/>
+    <line x1="80" y1="445" x2="1120" y2="445"/>
+    <line x1="80" y1="495" x2="1120" y2="495"/>
+    <line x1="80" y1="545" x2="1120" y2="545"/>
+    <line x1="80" y1="585" x2="1120" y2="585"/>
+  </g>
+</svg>
