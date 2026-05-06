@@ -90,7 +90,7 @@ ninja.data = [{
             },},{id: "news-appointed-adjunct-assistant-professor-in-the-department-of-neurobiology-amp-amp-biophysics-at-the-university-of-washington-supporting-cross-departmental-training-and-research-in-retinal-physiology-and-vision-science",
           title: 'Appointed Adjunct Assistant Professor in the Department of Neurobiology &amp;amp;amp; Biophysics at the...',
           description: "",
-          section: "News",},{id: "news-arvo-2026-photochemical-restoration-of-transient-on-and-off-retinal-ganglion-cell-responses-the-talk-covered-our-recent-multi-electrode-array-recordings-characterizing-how-photoswitch-treated-retinas-reconstruct-transient-on-and-off-response-polarity-at-the-level-of-individual-ganglion-cells",
+          section: "News",},{id: "news-arvo-2026-photochemical-restoration-of-transient-on-and-off-retinal-ganglion-cell-responses",
           title: 'ARVO 2026: Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell Responses....',
           description: "",
           section: "News",},{
