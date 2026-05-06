@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Research themes and active projects in the Fortenbach Lab.",
+          description: "Research themes in the Fortenbach Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -79,12 +79,7 @@ ninja.data = [{
           section: "News",},{id: "news-uw-medicine-ophthalmology-featured-the-lab-s-photoswitch-research-fortenbach-lab-investigating-the-therapeutic-potential-for-photoswitches-to-restore-vision",
           title: 'UW Medicine Ophthalmology featured the lab’s photoswitch research: Fortenbach Lab investigating the therapeutic...',
           description: "",
-          section: "News",},{id: "news-lab-launching-at-the-university-of-washington",
-          title: 'Lab launching at the University of Washington',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-phase-1-trial-of-intravitreal-photoswitch-kio-301-benaq-in-advanced-retinitis-pigmentosa-published-in-nature-medicine",
+          section: "News",},{id: "news-phase-1-trial-of-intravitreal-photoswitch-kio-301-benaq-in-advanced-retinitis-pigmentosa-published-in-nature-medicine",
           title: 'Phase 1 trial of intravitreal photoswitch (KIO-301/BENAQ) in advanced retinitis pigmentosa published in...',
           description: "",
           section: "News",handler: () => {
@@ -92,29 +87,11 @@ ninja.data = [{
             },},{id: "news-appointed-adjunct-assistant-professor-in-the-department-of-neurobiology-amp-amp-biophysics-at-the-university-of-washington-supporting-cross-departmental-training-and-research-in-retinal-physiology-and-vision-science",
           title: 'Appointed Adjunct Assistant Professor in the Department of Neurobiology &amp;amp;amp; Biophysics at the...',
           description: "",
-          section: "News",},{id: "news-the-fortenbach-lab-website-is-live-recruiting-at-all-levels-see-the-join-page",
-          title: 'The Fortenbach Lab website is live. Recruiting at all levels — see the...',
-          description: "",
           section: "News",},{id: "news-arvo-2026-photochemical-restoration-of-transient-on-and-off-retinal-ganglion-cell-responses",
           title: 'ARVO 2026 — Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "projects-how-photoswitches-encode-visual-information",
-          title: 'How photoswitches encode visual information',
-          description: "Single-cell and multi-electrode array recordings of photoswitch-mediated light responses, in retinas at different stages of degeneration.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-retinal-circuits-in-degenerative-disease",
-          title: 'Retinal circuits in degenerative disease',
-          description: "Basic physiology of the degenerating retina — how circuits remodel, what remains intact, and what any restorative therapy must respect.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-from-bench-to-retina-clinic",
-          title: 'From bench to retina clinic',
-          description: "Clinical questions that shape the lab&#39;s bench priorities — and bench results that inform clinical practice.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
