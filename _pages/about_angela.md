@@ -1,1 +1,3 @@
-Angela brings over twenty years of experience in molecular biology and ophthalmology research, combining hands-on bench expertise with administrative skill. She manages day-to-day operations of the Fortenbach Lab.
+**Lab Manager**
+
+Angela brings two decades of experience in molecular biology and ophthalmology research, with deep expertise at the bench and in lab administration. She runs the day-to-day operations of the Fortenbach Lab.
