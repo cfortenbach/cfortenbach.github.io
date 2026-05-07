@@ -7,12 +7,4 @@ nav: true
 nav_order: 1
 ---
 
-Our long-term goal is to restore meaningful vision to people who have lost it, using small molecules deliverable in an outpatient setting.
-
-#### How do photoswitches restore light-sensitivity and encode visual information in the retina?
-
-Photoswitches are synthetic, light-activated small molecules delivered by intravitreal injection that restore light sensitivity to retinas that have lost photoreceptors. We use whole-cell patch clamp and multi-electrode array recordings, combined with machine-learning analysis, to map how photoswitch responses encode visual information at the single-cell and population level.
-
-Our lab collaborates with [Dirk Trauner](https://www.traunergroup.org/) at the University of Pennsylvania to develop novel photoswitches and to study the resulting structure-function relationships in their ability to restore sight.
-
-Dr. Fortenbach participates in multiple clinical trials, and as additional promising candidates are developed, they will be brought forward in new clinical trials.
+My lab works on vision restoration in outer retinal degeneration. Diseases such as age-related macular degeneration and retinitis pigmentosa cause progressive, irreversible loss of photoreceptors and the visual experiences they support, but the inner retina downstream of them often remains structurally intact. Our work centers on photopharmacology: light-activated small molecules delivered by intravitreal injection that bind to cells in the surviving retina and restore their sensitivity to light. We use whole-cell patch clamp and multi-electrode array recordings, combined with machine-learning analysis of population responses, to ask how photoswitch-treated retinas encode visual information at the level of single neurons and across populations of ganglion cells, and how that encoding compares to native vision. In collaboration with the Trauner group at the University of Pennsylvania, we develop and characterize novel photoswitches and dissect the structure–function relationships that govern their ability to restore sight. As a practicing vitreoretinal surgeon, I also participate in clinical trials of these therapies; the long-term goal of the lab is to translate this circuit-level understanding into treatments that recover meaningful vision and can be delivered in an outpatient setting.
