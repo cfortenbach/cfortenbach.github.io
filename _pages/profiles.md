@@ -42,5 +42,5 @@ profiles:
     content: about_alex.md
     image_circular: false
     more_info: >
-      <p><strong>Alex Dohota, PhD</strong></p>
+      <p><strong>Alex Dohoda, PhD</strong></p>
 ---
