@@ -38,9 +38,7 @@ profiles:
 
   - section_header: Alumni
     align: left
-    image: alex_dohota.jpg
     content: about_alex.md
-    image_circular: false
     more_info: >
       <p><strong>Alex Dohoda, PhD</strong></p>
 ---
