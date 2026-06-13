@@ -93,6 +93,9 @@ ninja.data = [{
           section: "News",},{id: "news-arvo-2026-photochemical-restoration-of-transient-on-and-off-retinal-ganglion-cell-responses",
           title: 'ARVO 2026: Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell Responses....',
           description: "",
+          section: "News",},{id: "news-new-paper-in-ophthalmology-large-language-model-authorship-in-ophthalmic-publications-finding-that-undisclosed-llm-generated-text-is-increasingly-present-in-the-ophthalmic-literature-and-arguing-for-clearer-disclosure-standards",
+          title: 'New paper in Ophthalmology: Large Language Model Authorship in Ophthalmic Publications, finding that...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
