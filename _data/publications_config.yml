@@ -18,12 +18,11 @@ search_terms:
 # (pubmed.ncbi.nlm.nih.gov/<PMID>/).
 # Aim for 3-6 papers max; too many "selected" loses the curatorial signal.
 selected_pmids:
+  - 42242387   # 2026 Ophthalmology - LLM authorship in ophthalmic publications
   # - 36617524   # 2023 PLoS ONE diabetes aqueous humor (example - replace with real PMIDs)
   # - 28275032   # 2017 J. Gen. Physiol. RGS9 rod recovery (example)
 
 # PMIDs to exclude entirely. Use this for:
 #   - Papers by another "Fortenbach C" who isn't you
 #   - Errata/corrections you do not want listed separately
-#   - Conference abstracts you do not want on the publications page
-excluded_pmids:
-  # - 12345678   # example: not actually my paper
+#   - Conference abstracts you do not want on the publ
