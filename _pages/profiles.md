@@ -36,6 +36,20 @@ profiles:
       <p><strong>Payton Hermanson, BS</strong></p>
       <p>Research Scientist</p>
 
+  - align: left
+    content: about_hayden.md
+    image_circular: false
+    more_info: >
+      <p><strong>Hayden Reid</strong></p>
+      <p>Medical Student Researcher</p>
+
+  - align: right
+    content: about_jessica.md
+    image_circular: false
+    more_info: >
+      <p><strong>Jessica Dibbert</strong></p>
+      <p>Medical Student Researcher</p>
+
   - section_header: Alumni
     align: left
     content: about_alex.md
