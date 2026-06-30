@@ -37,6 +37,7 @@ profiles:
       <p>Research Scientist</p>
 
   - align: left
+    image: hayden_reid.jpg
     content: about_hayden.md
     image_circular: false
     more_info: >

@@ -25,4 +25,6 @@ selected_pmids:
 # PMIDs to exclude entirely. Use this for:
 #   - Papers by another "Fortenbach C" who isn't you
 #   - Errata/corrections you do not want listed separately
-#   - Conference abstracts you do not want on the publ
+#   - Conference abstracts you do not want on the publications page
+excluded_pmids:
+  # - 12345678   # example: not actually my paper
