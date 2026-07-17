@@ -45,6 +45,7 @@ profiles:
       <p>Medical Student Researcher</p>
 
   - align: right
+    image: jessica_dibbert.JPG
     content: about_jessica.md
     image_circular: false
     more_info: >
