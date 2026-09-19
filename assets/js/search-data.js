@@ -96,6 +96,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-in-ophthalmology-large-language-model-authorship-in-ophthalmic-publications-finding-that-undisclosed-llm-generated-text-is-increasingly-present-in-the-ophthalmic-literature-and-arguing-for-clearer-disclosure-standards",
           title: 'New paper in Ophthalmology: Large Language Model Authorship in Ophthalmic Publications, finding that...',
           description: "",
+          section: "News",},{id: "news-helsinki-vision-2026-the-goal-in-sight-restoring-vision-in-outer-retinal-degeneration",
+          title: 'Helsinki Vision 2026: The Goal in Sight: Restoring Vision in Outer Retinal Degeneration....',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
