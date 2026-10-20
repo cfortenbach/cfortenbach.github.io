@@ -99,6 +99,9 @@ ninja.data = [{
           section: "News",},{id: "news-helsinki-vision-2026-the-goal-in-sight-restoring-vision-in-outer-retinal-degeneration",
           title: 'Helsinki Vision 2026: The Goal in Sight: Restoring Vision in Outer Retinal Degeneration....',
           description: "",
+          section: "News",},{id: "news-awarded-a-latham-vision-research-innovation-vri-award-to-study-the-direct-effects-of-photoswitches-on-plasma-membranes",
+          title: 'Awarded a Latham Vision Research Innovation (VRI) Award to study the direct effects...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
