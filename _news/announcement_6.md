@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ARVO 2026: *Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell Responses*.
+Fortenbach Lab presents at ARVO 2026: *Photochemical Restoration of Transient ON- and OFF- Retinal Ganglion Cell Responses*.

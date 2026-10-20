@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded a Latham Vision Research Innovation (VRI) Award to study the direct effects of photoswitches on plasma membranes.
+Fortenbach Lab awarded a Latham Vision Research Innovation (VRI) Award to study the direct effects of photoswitches on plasma membranes.

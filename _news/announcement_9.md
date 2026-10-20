@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Basic Science Grand Rounds: joint presentation with Dr. James Kuchenbecker on photochemical restoration of vision augmented with assistive devices.
+Fortenbach Lab presents at Basic Science Grand Rounds, a joint presentation with Dr. James Kuchenbecker on photochemical restoration of vision augmented with assistive devices.

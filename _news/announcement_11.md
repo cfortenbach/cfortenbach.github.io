@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Helsinki Vision 2026](https://event.fourwaves.com/helsinkivision2026): *The Goal in Sight: Restoring Vision in Outer Retinal Degeneration*.
+Lab presents at [Helsinki Vision 2026](https://event.fourwaves.com/helsinkivision2026): *The Goal in Sight: Restoring Vision in Outer Retinal Degeneration*.
